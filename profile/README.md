@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./logo-dark.svg">
-  <img src="./logo-light.svg" alt="HardenKit" width="56" height="56">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hardenkit/.github/main/profile/logo-dark.svg">
+  <img src="https://raw.githubusercontent.com/hardenkit/.github/main/profile/logo-light.svg" alt="HardenKit" width="56" height="56">
 </picture>
 
 # HardenKit
